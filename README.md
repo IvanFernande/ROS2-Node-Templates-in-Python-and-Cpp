@@ -14,4 +14,6 @@ It should be noted that these templates will have to be integrated into the proj
 Good luck with your projects! 🚀🤖🔧
 
 # Scripts
-## Python node template
+```python
+
+```
