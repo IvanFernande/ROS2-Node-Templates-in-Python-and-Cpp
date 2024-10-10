@@ -12,3 +12,6 @@ During my time learning to use ROS2, I noticed that it can be cumbersome to star
 It should be noted that these templates will have to be integrated into the projects as required by the language, as well as modifying the ‘MakeFile’ in the case of C++.
 
 Good luck with your projects! 🚀🤖🔧
+
+# Scripts
+## Python node template
