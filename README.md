@@ -9,7 +9,7 @@ The node-based architecture of ROS2 is key because it allows a system to be brok
 
 During my time learning to use ROS2, I noticed that it can be cumbersome to start developing a node from scratch. This initial hurdle led me to create templates for writing nodes in both Python and C++. These templates are designed to be a starting point, helping developers to quickly structure their own nodes and customise them to the needs of their specific projects. I have uploaded these codes, called template.py and template.cpp, in the hope that they will serve as a valuable tool for others starting out in ROS2.
 
-It should be noted that these templates will have to be integrated into the projects as required by the language, as well as modifying the ‘MakeFile’ in the case of C++.
+It should be noted that these templates will have to be integrated into the projects as required by the language.
 
 Good luck with your projects! 🚀🤖🔧
 
