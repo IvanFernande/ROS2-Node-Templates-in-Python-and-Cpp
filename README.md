@@ -1,4 +1,4 @@
-# ROS2 (Humble) Templates for nodes
+# ROS2 (Humble) templates for nodes
 ROS2 (Robot Operating System) is a flexible and scalable framework for writing robot software. It provides the tools and libraries needed to obtain, build, write and run code on multiple computers. One of the key features of ROS2 is its use of ‘nodes’ which are processes that perform computations. Nodes communicate with each other via topic messages within a network, which facilitates modularity and code reuse, essential in complex robotic development.
 
 <p align="center">
