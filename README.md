@@ -2,7 +2,7 @@
 ROS2 (Robot Operating System) is a flexible and scalable framework for writing robot software. It provides the tools and libraries needed to obtain, build, write and run code on multiple computers. One of the key features of ROS2 is its use of ‘nodes’ which are processes that perform computations. Nodes communicate with each other via topic messages within a network, which facilitates modularity and code reuse, essential in complex robotic development.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e10d96d-7e1f-4caa-9d8f-4bcaf5ee6529" width="100">
+  <img src="https://github.com/user-attachments/assets/3e10d96d-7e1f-4caa-9d8f-4bcaf5ee6529" width="200">
 </p>
 
 The node-based architecture of ROS2 is key because it allows a system to be broken down into small functional parts that can be developed and tested independently. These nodes can be as simple as an individual sensor controller or as complex as an advanced motion planning system. By modularising systems in this way, ROS2 facilitates collaboration between developers and the integration of heterogeneous systems, providing a robust intercommunication framework.
